@@ -33,7 +33,7 @@ $devise = [
     </select>
 
     <label>Amount :</label>
-    <input type="number" name="amount" step="0.01">
+    <input type="number" name="amount" step="any">
 
     <button type="submit">Convert</button>
 </form>
